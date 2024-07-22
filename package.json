@@ -1,0 +1,12 @@
+{
+  "name": "coffeemasters-vanilla",
+  "version": "1.0.0",
+  "description": "This repo is a companion to the [You Don't Need That Library][course] course on Frontend Masters.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
